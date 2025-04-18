@@ -9,3 +9,5 @@ chmod +x chipsec-run.sh
 or
 
 curl -s https://raw.githubusercontent.com/YOUR_USERNAME/chipsec-script/main/chipsec-run.sh | bash
+
+curl -s https://raw.githubusercontent.com/YOUR_USERNAME/chipsec-script/main/fix-fw.sh | bash
