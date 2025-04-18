@@ -1,6 +1,9 @@
 git clone https://github.com/YOUR_USERNAME/chipsec-script.git
+
 cd chipsec-script
+
 chmod +x chipsec-run.sh
+
 ./chipsec-run.sh
 
 or
